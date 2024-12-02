@@ -1,5 +1,5 @@
 # ML_PushoverCurves_Prediction
-This repository is an appendix of the thesis document for obtaining the MSc. of Applied Analytics at Universidad de La Sabana presented by Carlos Angarita. The available products are as follows:
+This repository is presents the GUI and functions to predict a trilinear approximation of pushover curves for low-rise reinforced concrete frame buildings using Machine Learning (ML) models. The description of each section is presented below:
 1. Papers: Presents the links to publications related to the generation of ML models for predicting pushover curves in low-rise building frames.
 2. Database: Presents the entire generated database, which includes the trilinear approximation of the pushover curves and the input data used to generate the pushover analysis (Excel and Pickle format is available).
 3. GUI: Presents a link to download the Graphical User Interface (GUI) from a OneDrive. The "onefile" carpet presents an executable (.exe) of the GUI (i.e., you just need to download and distribute this executable). And the "onedir" carpet presents an executable (.exe) less heavy, and a carpet called "_internal" with all the dependeces of the executable (i.e., you need to download the dist carpet and the executable for a correct use of the GUI).
